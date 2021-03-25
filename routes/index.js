@@ -6,7 +6,7 @@ const todoRouter = require("./todo")
 //route
 router.get("/", (req, res) => {
   res.json({
-    message: "welcome to express js"
+    message: "welcome to express jss"
   })
 })
 
